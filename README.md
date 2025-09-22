@@ -1,7 +1,5 @@
 # ConsoleCalculator-Task-1-
 
-# 📟 Java Console Calculator
-
 A simple **Java Console Calculator** that performs basic arithmetic operations using Java console I/O.  
 This project demonstrates Java fundamentals such as **methods**, **loops**, and **user input handling**.
 
